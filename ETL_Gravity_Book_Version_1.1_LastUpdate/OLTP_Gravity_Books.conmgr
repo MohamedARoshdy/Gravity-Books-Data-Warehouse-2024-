@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="OLTP_Gravity_Books1"
+  DTS:DTSID="{9704F52D-0283-4575-BA19-B316BB694475}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=ROSHDY;Initial Catalog=gravity_books;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Integration Services Project1-{9704F52D-0283-4575-BA19-B316BB694475}ROSHDY.gravity_books;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
