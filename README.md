@@ -16,6 +16,7 @@ The **Gravity Books Data Warehouse** uses a **Snowflake Schema** to organize and
   - `Dim_Customer`: Customer information.
   - `Dim_Address`: Customer address details.
   - `Dim_Customer_Address`: Relationship between customers and addresses.
+  - ![Gravity Books Modeling](./Gravity-Books-Modeling.jpg)
 
 ## Additional Files:
 - **Excel Modeling Map**: Contains the data model diagram and relationships between tables.
